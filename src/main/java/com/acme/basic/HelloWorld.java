@@ -9,5 +9,17 @@ public class HelloWorld {
   void notCovered() {
     System.out.println("This method is not covered by unit tests");
   }
+  
+  void myMethod1() {
+    String strnName = "MyName";
+    String strnAdd = "MyAdd";
+    String strnPin = "MyPin";
+  }
+
+  void myMethod2() {
+    String strnName = "MyName";
+    String strnAdd = "MyAdd";
+    String strnPin = "MyPin";
+  }
 
 }
